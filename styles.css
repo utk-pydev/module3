@@ -1,0 +1,98 @@
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: red;
+    background-color: #599e4b;
+}
+
+
+/** HEADER **/
+
+#header-nav {
+    background-color: black;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 20px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #009B77;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 60px;
+    padding-top: 2px;
+}
+.navbar-brand h1 {
+    color: #9400D3;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 1.5em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+}
+
+#nav-list {
+    background-color: #B565A7;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+}
+
+.navbar-header div.navbar-brand {
+    clear: both;
+    margin-top: -25px;
+ /*END HEADER */
+}
+
+
+/** HOME PAGE **/
+
+#menu {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#menu h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#menu h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#chicken {
+    background-color: #99B898;
+    padding: 30px;
+}
